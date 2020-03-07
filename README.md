@@ -1,4 +1,6 @@
 # Tipsy-Udemy-Course-IOS13
+[![CodeFactor](https://www.codefactor.io/repository/github/prefect1109/tipsy-udemy-course-ios13/badge)](https://www.codefactor.io/repository/github/prefect1109/tipsy-udemy-course-ios13)
+
 Udemy Course IOS13
 
 Aplication screenshots
